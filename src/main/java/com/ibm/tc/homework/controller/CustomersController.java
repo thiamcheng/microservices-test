@@ -2,7 +2,7 @@ package com.ibm.tc.homework.controller;
 
 import com.ibm.tc.homework.model.Customers;
 
-import ca.pledgetovote.model.Pledge;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import com.ibm.tc.homework.model.*;
+// import com.ibm.tc.homework.model.*;
 
 
 @RestController
